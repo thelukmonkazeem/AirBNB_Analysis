@@ -9,7 +9,7 @@ And, AirBNB is a American based vacation rentage company that was established in
 
 In this project, I used Python, Power BI and SQL to analyze the AirBNB dataset.
 
-The dataset can be found here. ![Air BNB Dataset] (https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
+The dataset can be found here. ![Air BNB Dataset](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
 
 Below is the Power Report.
 ![AirBNBVIZ](https://github.com/thelukmonkazeem/AirBNB_Analysis/blob/main/AirBNBVIZ.jpg)
